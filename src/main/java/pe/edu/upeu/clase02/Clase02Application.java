@@ -1,13 +1,13 @@
-package pe.edu.upeu.clase01;
+package pe.edu.upeu.clase02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Clase01Application {
+public class Clase02Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Clase01Application.class, args);
+		SpringApplication.run(Clase02Application.class, args);
 	}
 
 }
